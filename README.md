@@ -6,7 +6,7 @@
     Thankfully, there are online platforms such as <a href="https://www.theforage.com">The Forage</a> that partners with various industries to offer participants virtual work experience programs thats provides them with practical skills and exposure to real-world tasks to help build their resumes and professional networks.<br/>
 <div align="center">
   <a href="https://www.accenture.com/us-en">
-    <img src="images/accenture_logo.png">
+    <img src="images/accenture_logo.png" width="400" height="225">
   </a>
 </div>
     The industry in this case would be <a href="https://www.accenture.com/us-en/careers/life-at-accenture/entry-level">Accenture</a>. 
